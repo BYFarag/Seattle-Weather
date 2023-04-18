@@ -21,6 +21,8 @@ In order to analyze the data and create meaningful plots, specific steps were ta
 
 The file name in the Github repo that performs the data analysis is called = Bayan Farag DATA 3320 Seattle St Louis Analysis Template.ipynb
 
+The document that communicates the final results & findings is called RainResults.Pdf
+
 Authors: 
 Bayan Farag & Dr. Brian Fischer. 
 Bayan is an undergrad student at Seattle University studying Computer Science and a Minor in Data Science. Dr. Fischer is a professor at Seattle University He has a B.A. in Mathematics from Illinois Wesleyan University and a D.Sc. in Systems Science & Mathematics from Washington University in St. Louis.
